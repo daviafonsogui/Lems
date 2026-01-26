@@ -1,0 +1,10 @@
+{
+    "atividades":[
+    { "id": "1", "titulo": "Enviar relatório", "duracao": "40min" },
+    { "id": "2", "titulo": "Organizar documentos", "duracao": "1h" }
+  ],
+    "reunioes":[
+    { "id": "r1", "titulo": "Equipe", "horario": "10:00", "duracao":"1h" },
+    { "id": "r2", "titulo": "Cliente XPTO", "horario": "15:30", "duracao": "30min" }    
+]
+}
