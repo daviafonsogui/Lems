@@ -256,7 +256,7 @@ app.get("/funcionario/:id", (req, res) => {
 
 // ================= START =================
 
-const PORT = 3000;
+const PORT = 443;
 app.listen(PORT, () => {
   console.log(`🚀 API rodando em http://localhost:${PORT}`);
 });
