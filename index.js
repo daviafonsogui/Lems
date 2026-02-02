@@ -184,6 +184,15 @@ app.post("/admin/metas", (req, res) => {
 app.get("/admin/dds", (req, res) => {
   res.json(lerArquivo("dds.json"));
 });
+app.get("/admin/resultados", (req, res) => {
+  res.json(lerArquivo("resultados.json"));
+});
+
+
+app.get("/admin/feedback", (req, res) => {
+  res.json(lerArquivo("feedback.json"));
+});
+
 
 app.post("/admin/dds", (req, res) => {
   try {
