@@ -1,28 +1,30 @@
 {
   "atividades": [
-    {
-      "id": "1",
-      "titulo": "Enviar relatório",
-      "duracao": "40min"
-    },
-    {
-      "id": "2",
-      "titulo": "Organizar documentos",
-      "duracao": "1h"
-    }
+    { "id": "1", "titulo": "Revisar planilha financeira", "duracao": "35min" },
+    { "id": "2", "titulo": "Atualizar sistema interno", "duracao": "50min" },
+    { "id": "3", "titulo": "Responder e-mails pendentes", "duracao": "25min" },
+    { "id": "4", "titulo": "Analisar relatório mensal", "duracao": "1h 10min" },
+    { "id": "5", "titulo": "Conferir notas fiscais", "duracao": "40min" },
+    { "id": "6", "titulo": "Organizar arquivos digitais", "duracao": "30min" },
+    { "id": "7", "titulo": "Ajustar metas do setor", "duracao": "45min" },
+    { "id": "8", "titulo": "Verificar chamados abertos", "duracao": "20min" },
+    { "id": "9", "titulo": "Atualizar dashboard", "duracao": "55min" },
+    { "id": "10", "titulo": "Planejar tarefas da semana", "duracao": "1h" },
+    { "id": "11", "titulo": "Revisão de contratos", "duracao": "1h 20min" },
+    { "id": "12", "titulo": "Backup de dados", "duracao": "35min" }
   ],
   "reunioes": [
-    {
-      "id": "r1",
-      "titulo": "Equipe",
-      "horario": "10:00",
-      "duracao": "1h"
-    },
-    {
-      "id": "r2",
-      "titulo": "Cliente XPTO",
-      "horario": "15:30",
-      "duracao": "30min"
-    }
+    { "id": "r1", "titulo": "Reunião de alinhamento", "horario": "09:00", "duracao": "45min" },
+    { "id": "r2", "titulo": "Treinamento interno", "horario": "11:00", "duracao": "1h 30min" },
+    { "id": "r3", "titulo": "Call com fornecedor", "horario": "14:30", "duracao": "40min" },
+    { "id": "r4", "titulo": "Reunião estratégica", "horario": "16:00", "duracao": "1h" },
+    { "id": "r5", "titulo": "Reunião financeira", "horario": "08:30", "duracao": "50min" },
+    { "id": "r6", "titulo": "Check-in da equipe", "horario": "10:15", "duracao": "30min" },
+    { "id": "r7", "titulo": "Apresentação de resultados", "horario": "13:00", "duracao": "1h 15min" },
+    { "id": "r8", "titulo": "Planejamento mensal", "horario": "15:00", "duracao": "1h" },
+    { "id": "r9", "titulo": "Reunião com RH", "horario": "17:00", "duracao": "35min" },
+    { "id": "r10", "titulo": "Reunião de projeto", "horario": "09:45", "duracao": "55min" },
+    { "id": "r11", "titulo": "Avaliação de desempenho", "horario": "11:45", "duracao": "1h" },
+    { "id": "r12", "titulo": "Reunião operacional", "horario": "16:30", "duracao": "45min" }
   ]
 }

@@ -1,4 +1,14 @@
 [
   { "nome": "Financeiro", "metas": ["Reduzir custos 10%", "Fechar balanço mensal"] },
-  { "nome": "RH", "metas": ["Treinamento da equipe", "Contratar 2 pessoas"] }
+  { "nome": "RH", "metas": ["Treinamento da equipe", "Contratar 2 pessoas"] },
+  { "nome": "TI", "metas": ["Atualizar servidores", "Melhorar segurança da rede"] },
+  { "nome": "Marketing", "metas": ["Lançar nova campanha", "Aumentar engajamento nas redes"] },
+  { "nome": "Vendas", "metas": ["Bater meta mensal", "Captar 15 novos clientes"] },
+  { "nome": "Logística", "metas": ["Reduzir tempo de entrega", "Organizar estoque"] },
+  { "nome": "Produção", "metas": ["Aumentar produtividade 5%", "Reduzir desperdício"] },
+  { "nome": "Jurídico", "metas": ["Revisar contratos", "Atualizar documentação legal"] },
+  { "nome": "Suporte", "metas": ["Diminuir tempo de resposta", "Aumentar satisfação do cliente"] },
+  { "nome": "Qualidade", "metas": ["Auditoria interna", "Padronizar processos"] },
+  { "nome": "Compras", "metas": ["Negociar novos fornecedores", "Reduzir custos de insumos"] },
+  { "nome": "Comercial", "metas": ["Expandir carteira de clientes", "Firmar novas parcerias"] }
 ]

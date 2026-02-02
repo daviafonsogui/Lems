@@ -1,9 +1,86 @@
 {
-    "0":{
-        "setor":"Financeiro",
-        "relatorio de resultado":"Análise de despesas do último trimestre ganho x, demitidos do mes 13, contratados do mes 14",
-        "data":"2024-05-15",
-        "responsavel":"Ana Silva",
-        "status":"Concluído"
-    }   
+  "0": {
+    "setor": "Financeiro",
+    "relatorio de resultado": "Redução de custos em 9% e balanço mensal fechado com sucesso.",
+    "data": "2024-05-15",
+    "responsavel": "Ana Silva",
+    "status": "Concluído"
+  },
+  "1": {
+    "setor": "RH",
+    "relatorio de resultado": "Treinamento realizado com 95% de participação e 2 novas contratações efetuadas.",
+    "data": "2024-05-16",
+    "responsavel": "Carlos Mendes",
+    "status": "Concluído"
+  },
+  "2": {
+    "setor": "TI",
+    "relatorio de resultado": "Servidores atualizados e reforço na segurança da rede implementado.",
+    "data": "2024-05-17",
+    "responsavel": "Juliana Rocha",
+    "status": "Concluído"
+  },
+  "3": {
+    "setor": "Marketing",
+    "relatorio de resultado": "Nova campanha lançada e aumento de 18% no engajamento digital.",
+    "data": "2024-05-18",
+    "responsavel": "Fernanda Alves",
+    "status": "Concluído"
+  },
+  "4": {
+    "setor": "Vendas",
+    "relatorio de resultado": "Meta mensal atingida e 17 novos clientes cadastrados.",
+    "data": "2024-05-19",
+    "responsavel": "Ricardo Lima",
+    "status": "Concluído"
+  },
+  "5": {
+    "setor": "Logística",
+    "relatorio de resultado": "Tempo de entrega reduzido em 12% e estoque reorganizado.",
+    "data": "2024-05-20",
+    "responsavel": "Patrícia Gomes",
+    "status": "Concluído"
+  },
+  "6": {
+    "setor": "Produção",
+    "relatorio de resultado": "Aumento de produtividade em 6% e queda no desperdício de materiais.",
+    "data": "2024-05-21",
+    "responsavel": "Bruno Oliveira",
+    "status": "Concluído"
+  },
+  "7": {
+    "setor": "Jurídico",
+    "relatorio de resultado": "Contratos revisados e documentação legal atualizada.",
+    "data": "2024-05-22",
+    "responsavel": "Mariana Silva",
+    "status": "Concluído"
+  },
+  "8": {
+    "setor": "Suporte",
+    "relatorio de resultado": "Tempo médio de resposta reduzido e satisfação do cliente aumentou.",
+    "data": "2024-05-23",
+    "responsavel": "Lucas Martins",
+    "status": "Concluído"
+  },
+  "9": {
+    "setor": "Qualidade",
+    "relatorio de resultado": "Auditoria interna realizada e novos padrões de processo definidos.",
+    "data": "2024-05-24",
+    "responsavel": "Camila Torres",
+    "status": "Concluído"
+  },
+  "10": {
+    "setor": "Compras",
+    "relatorio de resultado": "Novos fornecedores contratados e redução de custos em insumos.",
+    "data": "2024-05-25",
+    "responsavel": "Rafael Costa",
+    "status": "Concluído"
+  },
+  "11": {
+    "setor": "Comercial",
+    "relatorio de resultado": "Carteira de clientes expandida e novas parcerias firmadas.",
+    "data": "2024-05-26",
+    "responsavel": "Larissa Fernandes",
+    "status": "Concluído"
+  }
 }

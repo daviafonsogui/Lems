@@ -1,290 +1,38 @@
 [
   {
     "id": "1",
-    "nome": "João",
+    "nome": "Wallison",
     "cargo": "Atendente",
     "horarios": {
-      "Segunda": {
-        "05:00": "Atendimento",
-        "06:00": "Treinamento",
-        "07:00": "Reunião",
-        "08:00": "Atendimento",
-        "09:00": "Atendimento",
-        "10:00": "Atendimento"
-      },
-      "Terça": {
-        "07:00": "Treinamento"
-      }
+      "Segunda": { "05:00": "Atendimento", "06:00": "Treinamento", "07:00": "Reunião", "08:00": "Atendimento", "09:00": "Atendimento", "10:00": "Atendimento" },
+      "Terça": { "07:00": "Treinamento" }
     },
     "escalaInicial": [
-      {
-        "dia": 1,
-        "status": "T2"
-      },
-      {
-        "dia": 2,
-        "status": "T2"
-      },
-      {
-        "dia": 3,
-        "status": null
-      },
-      {
-        "dia": 4,
-        "status": null
-      },
-      {
-        "dia": 5,
-        "status": null
-      },
-      {
-        "dia": 6,
-        "status": null
-      },
-      {
-        "dia": 7,
-        "status": null
-      },
-      {
-        "dia": 8,
-        "status": null
-      },
-      {
-        "dia": 9,
-        "status": null
-      },
-      {
-        "dia": 10,
-        "status": null
-      },
-      {
-        "dia": 11,
-        "status": null
-      },
-      {
-        "dia": 12,
-        "status": null
-      },
-      {
-        "dia": 13,
-        "status": null
-      },
-      {
-        "dia": 14,
-        "status": null
-      },
-      {
-        "dia": 15,
-        "status": null
-      },
-      {
-        "dia": 16,
-        "status": null
-      },
-      {
-        "dia": 17,
-        "status": null
-      },
-      {
-        "dia": 18,
-        "status": null
-      },
-      {
-        "dia": 19,
-        "status": null
-      },
-      {
-        "dia": 20,
-        "status": null
-      },
-      {
-        "dia": 21,
-        "status": null
-      },
-      {
-        "dia": 22,
-        "status": null
-      },
-      {
-        "dia": 23,
-        "status": null
-      },
-      {
-        "dia": 24,
-        "status": null
-      },
-      {
-        "dia": 25,
-        "status": null
-      },
-      {
-        "dia": 26,
-        "status": null
-      },
-      {
-        "dia": 27,
-        "status": null
-      },
-      {
-        "dia": 28,
-        "status": null
-      },
-      {
-        "dia": 29,
-        "status": null
-      },
-      {
-        "dia": 30,
-        "status": null
-      },
-      {
-        "dia": 31,
-        "status": null
-      }
+      { "dia": 1, "status": "T2" }, { "dia": 2, "status": "T2" },
+      { "dia": 3, "status": null }, { "dia": 4, "status": null }, { "dia": 5, "status": null },
+      { "dia": 6, "status": null }, { "dia": 7, "status": null }, { "dia": 8, "status": null },
+      { "dia": 9, "status": null }, { "dia": 10, "status": null }, { "dia": 11, "status": null },
+      { "dia": 12, "status": null }, { "dia": 13, "status": null }, { "dia": 14, "status": null },
+      { "dia": 15, "status": null }, { "dia": 16, "status": null }, { "dia": 17, "status": null },
+      { "dia": 18, "status": null }, { "dia": 19, "status": null }, { "dia": 20, "status": null },
+      { "dia": 21, "status": null }, { "dia": 22, "status": null }, { "dia": 23, "status": null },
+      { "dia": 24, "status": null }, { "dia": 25, "status": null }, { "dia": 26, "status": null },
+      { "dia": 27, "status": null }, { "dia": 28, "status": null }, { "dia": 29, "status": null },
+      { "dia": 30, "status": null }, { "dia": 31, "status": null }
     ]
   },
-  {
-    "id": "2",
-    "nome": "Ana",
-    "cargo": "Atendente",
-    "horarios": {
-      "Segunda": {
-        "05:00": "Atendimento",
-        "06:00": "Treinamento",
-        "07:00": "Reunião",
-        "08:00": "Atendimento",
-        "09:00": "Atendimento",
-        "10:00": "Atendimento"
-      },
-      "Terça": {
-        "07:00": "Treinamento"
-      }
-    },
-    "escalaInicial": [
-      {
-        "dia": 1,
-        "status": "T2"
-      },
-      {
-        "dia": 2,
-        "status": "T2"
-      },
-      {
-        "dia": 3,
-        "status": null
-      },
-      {
-        "dia": 4,
-        "status": null
-      },
-      {
-        "dia": 5,
-        "status": null
-      },
-      {
-        "dia": 6,
-        "status": null
-      },
-      {
-        "dia": 7,
-        "status": null
-      },
-      {
-        "dia": 8,
-        "status": null
-      },
-      {
-        "dia": 9,
-        "status": null
-      },
-      {
-        "dia": 10,
-        "status": null
-      },
-      {
-        "dia": 11,
-        "status": null
-      },
-      {
-        "dia": 12,
-        "status": null
-      },
-      {
-        "dia": 13,
-        "status": null
-      },
-      {
-        "dia": 14,
-        "status": null
-      },
-      {
-        "dia": 15,
-        "status": null
-      },
-      {
-        "dia": 16,
-        "status": null
-      },
-      {
-        "dia": 17,
-        "status": null
-      },
-      {
-        "dia": 18,
-        "status": null
-      },
-      {
-        "dia": 19,
-        "status": null
-      },
-      {
-        "dia": 20,
-        "status": null
-      },
-      {
-        "dia": 21,
-        "status": null
-      },
-      {
-        "dia": 22,
-        "status": null
-      },
-      {
-        "dia": 23,
-        "status": null
-      },
-      {
-        "dia": 24,
-        "status": null
-      },
-      {
-        "dia": 25,
-        "status": null
-      },
-      {
-        "dia": 26,
-        "status": null
-      },
-      {
-        "dia": 27,
-        "status": null
-      },
-      {
-        "dia": 28,
-        "status": null
-      },
-      {
-        "dia": 29,
-        "status": null
-      },
-      {
-        "dia": 30,
-        "status": null
-      },
-      {
-        "dia": 31,
-        "status": null
-      }
-    ]
-  }
+  { "id": "2", "nome": "Ana Souza", "cargo": "Atendente", "horarios": { "Segunda": { "05:00": "Atendimento", "06:00": "Treinamento", "07:00": "Reunião", "08:00": "Atendimento", "09:00": "Atendimento", "10:00": "Atendimento" }, "Terça": { "07:00": "Treinamento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }, { "dia": 2, "status": "T2" }, { "dia": 3, "status": null }, { "dia": 4, "status": null }, { "dia": 5, "status": null }, { "dia": 6, "status": null }, { "dia": 7, "status": null }, { "dia": 8, "status": null }, { "dia": 9, "status": null }, { "dia": 10, "status": null }, { "dia": 11, "status": null }, { "dia": 12, "status": null }, { "dia": 13, "status": null }, { "dia": 14, "status": null }, { "dia": 15, "status": null }, { "dia": 16, "status": null }, { "dia": 17, "status": null }, { "dia": 18, "status": null }, { "dia": 19, "status": null }, { "dia": 20, "status": null }, { "dia": 21, "status": null }, { "dia": 22, "status": null }, { "dia": 23, "status": null }, { "dia": 24, "status": null }, { "dia": 25, "status": null }, { "dia": 26, "status": null }, { "dia": 27, "status": null }, { "dia": 28, "status": null }, { "dia": 29, "status": null }, { "dia": 30, "status": null }, { "dia": 31, "status": null }] },
+  { "id": "3", "nome": "Carlos Lima", "cargo": "Atendente", "horarios": { "Segunda": { "05:00": "Atendimento" }, "Terça": { "07:00": "Treinamento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }, { "dia": 2, "status": "T2" }] },
+  { "id": "4", "nome": "Fernanda Alves", "cargo": "Atendente", "horarios": { "Segunda": { "08:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "5", "nome": "Ricardo Mendes", "cargo": "Atendente", "horarios": { "Segunda": { "09:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "6", "nome": "Juliana Rocha", "cargo": "Atendente", "horarios": { "Segunda": { "10:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "7", "nome": "Pedro Henrique", "cargo": "Atendente", "horarios": { "Terça": { "07:00": "Treinamento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "8", "nome": "Camila Torres", "cargo": "Atendente", "horarios": { "Quarta": { "08:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "9", "nome": "Lucas Martins", "cargo": "Atendente", "horarios": { "Quarta": { "09:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "10", "nome": "Patrícia Gomes", "cargo": "Atendente", "horarios": { "Quinta": { "10:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "11", "nome": "Rafael Costa", "cargo": "Atendente", "horarios": { "Sexta": { "08:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "12", "nome": "Mariana Silva", "cargo": "Atendente", "horarios": { "Sexta": { "09:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "13", "nome": "Bruno Oliveira", "cargo": "Atendente", "horarios": { "Segunda": { "06:00": "Treinamento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "14", "nome": "Larissa Fernandes", "cargo": "Atendente", "horarios": { "Terça": { "08:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] },
+  { "id": "15", "nome": "Diego Santos", "cargo": "Atendente", "horarios": { "Quarta": { "10:00": "Atendimento" } }, "escalaInicial": [{ "dia": 1, "status": "T2" }] }
 ]
